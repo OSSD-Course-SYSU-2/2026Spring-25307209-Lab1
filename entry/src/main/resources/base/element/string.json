@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "简易本地视频播放器模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "视频播放器主页面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "视频播放器"
+    },
+    {
+      "name": "read_media_permission_reason",
+      "value": "需要读取媒体文件权限以播放本地视频"
+    },
+    {
+      "name": "media_location_permission_reason",
+      "value": "需要媒体位置权限以访问视频文件"
+    },
+    {
+      "name": "app_name",
+      "value": "简易视频播放器"
+    }
+  ]
+}
